@@ -1,3 +1,4 @@
 pandas
 scikit-learn
 sklearn
+twitter-scraper

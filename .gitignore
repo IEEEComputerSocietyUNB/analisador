@@ -108,3 +108,7 @@ venv.bak/
 
 # Open CSV
 *.csv#
+*.xlsx#
+
+# Temp files
+pages/
